@@ -1,6 +1,6 @@
-# Übung 2: Race Condition Bank
+# Übung: Race Condition Bank
 
-Beschreibung:
+Aufgabe:
 1. Bankkonte
    - Simuliere ein Bankkonto mit Startwert 1000 (EUR).
    - Starte 10 Threads, die jeweils 100 (EUR) einzahlen und 150 (EUR) abheben.
